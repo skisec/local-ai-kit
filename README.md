@@ -132,10 +132,9 @@ Ollama also supports Apple Silicon through the Metal API. The same general guida
 ## Setup and Usage
 
 ### 1. Initial Setup (Clone Repository)
-Clone the repository and navigate to the `local-ai` directory:
+Clone the repository:
 ```bash
-git clone https://github.com/skisec/cackalacky-ai-village.git && \
-cd cackalacky-ai-village/how-to-train-your-llama/local-ai
+git clone https://github.com/skisec/local-ak-kit
 ```
 
 ### 2. Deployment Modes
